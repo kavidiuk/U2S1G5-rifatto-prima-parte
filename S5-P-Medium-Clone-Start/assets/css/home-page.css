@@ -1,0 +1,85 @@
+nav{
+    background-color: #ffc017;
+    display: flex;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+nav div{
+    display: flex;
+    flex-wrap: wrap;
+}
+nav h1{
+    font-size: 2rem;
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    flex-wrap: wrap;
+}
+nav div ul{
+    display: flex;
+    margin-left: 40rem;
+    margin-top: 0.7rem;
+    flex-wrap: wrap;
+    
+}
+nav div ul li{
+    margin-left: 1rem;
+    list-style-type: none;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+nav div button{
+    color: white;
+    background-color: black;
+    border-radius: 40px;
+    margin-left: 1rem;
+    flex-wrap: wrap;
+}
+hr {
+    margin-top: 0;
+    border: 1px solid black;
+    margin-bottom: 0;
+}
+/* Header */
+header{
+    background-color: #ffc017;
+}
+header h1{
+    font-size: 5rem;
+    font-weight:400;
+    padding: 5rem;
+    flex-wrap: wrap;
+}
+header h3{
+    font-size: 2rem;
+    margin-left: 7%;
+    margin-top: -4%;
+    flex-wrap: wrap;
+}
+header button{
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 0.5rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+
+}
+/* Main */
+main{
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+main div{
+    display: flex;
+    
+}
+main div h3{
+    margin-top: 0.4rem;
+    margin-left: 0.5rem;
+    font-size: 1.1rem;
+}
+/* Notizie Pricipali */
+.notiziePrincipali{
+    color:yellowgreen
+}
